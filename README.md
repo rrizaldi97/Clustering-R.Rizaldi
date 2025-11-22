@@ -9,19 +9,17 @@ Aplikasi dibangun menggunakan framework **Streamlit** dan mengimplementasikan me
 | Keterangan | Data |
 |-----------|------|
 | Nama      | R. Rizaldi |
-| NPM       | (isi NPM Anda) |
+| NPM       | 072925016 |
 | Kelas     | S2 Ilmu Komputer – Semester 1 |
 | Topik UTS | Nomor 1 – Clustering |
 | Dosen     | Dr. Tjut Awaliyah Zuraiyah, M.Kom |
 
 ---
 
-## 🌐 Link Aplikasi Streamlit
-Aplikasi dapat dijalankan langsung melalui link berikut:
+## 🌐 Link Aplikasi (Hosting Streamlit)
+Aplikasi bisa diakses langsung melalui link berikut:
 
-👉 **(isi nanti setelah di-deploy ke Streamlit Cloud)**  
-Contoh format:  
-`https://your-app-name.streamlit.app`
+👉 **https://clustering-rrizaldi.streamlit.app/**
 
 ---
 
@@ -86,5 +84,6 @@ Terima kasih kepada dosen pengampu serta rekan-rekan yang telah memberikan araha
 
 
 ## 📁 Struktur Project
+
 
 
