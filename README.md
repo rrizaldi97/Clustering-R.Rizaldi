@@ -25,10 +25,10 @@ Aplikasi bisa diakses langsung melalui link berikut:
 
 ## 📁 Struktur Project
 📂 Clustering-R.Rizaldi
-│── app.py # File utama aplikasi Streamlit
-│── requirements.txt # Daftar library
-│── PMA_Investasi.xlsx # Dataset PMA Surabaya
-│── README.md # Dokumentasi
+- app.py # File utama aplikasi Streamlit
+- requirements.txt # Daftar library
+- PMA_Investasi.xlsx # Dataset PMA Surabaya
+- README.md # Dokumentasi
 
 
 ---
@@ -83,7 +83,6 @@ Project ini hanya digunakan untuk keperluan akademik UTS dan tidak untuk distrib
 Terima kasih kepada dosen pengampu serta rekan-rekan yang telah memberikan arahan dalam pengerjaan aplikasi ini.
 
 
-## 📁 Struktur Project
 
 
 
